@@ -35,3 +35,6 @@ As I thought, a scoreboard page contains all problem that I have to solve.
  ---
  ### 6.Confidential Document
   * When I try to checkout things in basket, it's show path that file is stored. http://localhost:3000/ftp/
+ ---
+### 7.Admin Section
+ * Already found at #/administration
