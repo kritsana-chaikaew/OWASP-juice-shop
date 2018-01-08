@@ -30,3 +30,8 @@ As I thought, a scoreboard page contains all problem that I have to solve.
 ### 4.Five-Star Feedback
   * I thought it was persistent XSS, but it's not. I found admin page at #/administration
 ---
+### 5.Redirects Tier 1
+ * SKIP
+ ---
+ ### 6.Confidential Document
+  * When I try to checkout things in basket, it's show path that file is stored. http://localhost:3000/ftp/
