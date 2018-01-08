@@ -38,3 +38,5 @@ As I thought, a scoreboard page contains all problem that I have to solve.
  ---
 ### 7.Admin Section
  * Already found at #/administration
+### 8.Zero Stars
+ * Just reclick the stars
