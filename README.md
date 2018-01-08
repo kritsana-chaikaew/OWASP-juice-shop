@@ -17,3 +17,16 @@ I haven't found the instruction yet. I thought I need to find all URLs.
 Luckly, I found a comment about link to scoreboard in the source code.
 
 As I thought, a scoreboard page contains all problem that I have to solve.
+
+### 1.Score Board
+  * found a link that is commented in page source
+---
+### 2.Error Handling
+  * login raised an error when entering ' in input box
+---
+### 3.XSS Tier 1
+  * search box is vulnerable to reflect XSS
+---
+### 4.Five-Star Feedback
+  * Ok, this still about XSS. When I submit a contract form it will disply on about page.
+  TODO
