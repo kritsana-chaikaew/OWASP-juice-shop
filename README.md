@@ -28,5 +28,5 @@ As I thought, a scoreboard page contains all problem that I have to solve.
   * search box is vulnerable to reflect XSS
 ---
 ### 4.Five-Star Feedback
-  * Ok, this still about XSS. When I submit a contract form it will disply on about page.
-  TODO
+  * I thought it was persistent XSS, but it's not. I found admin page at #/administration
+---
