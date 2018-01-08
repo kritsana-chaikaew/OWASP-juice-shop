@@ -44,5 +44,5 @@ As I thought, a scoreboard page contains all problem that I have to solve.
  * SKIP
 ### 10.Login Admin
  * Enter 'or'a'='a' and like %admin% --
-### 11
- * I thought it was SQLi and crack password, but pass word is in response in user page. password crackable.
+### 11.Password Strength
+ * I thought it was SQLi and crack password, but pass word is in response in administration page. password crackable.
