@@ -31,3 +31,5 @@ Let's play it!
  * I thought it was SQLi and crack password, but pass word is in response in administration page. password crackable.
  ### 12.Basket Access
   * Modify Request URL: http://localhost:3000/rest/basket/1 -> 2
+ ### 13.Forgotten Sales Backup
+  * Use technique called nullbyte injection append %2500.pdf (or %2500.md) to URL.
