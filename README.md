@@ -40,3 +40,7 @@ As I thought, a scoreboard page contains all problem that I have to solve.
  * Already found at #/administration
 ### 8.Zero Stars
  * Just reclick the stars
+### 9.Deprecated Interface
+ * SKIP
+### 10.Login Admin
+ * Enter 'or'a'='a' and like %admin% --
