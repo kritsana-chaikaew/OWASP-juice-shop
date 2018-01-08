@@ -44,3 +44,7 @@ As I thought, a scoreboard page contains all problem that I have to solve.
  * SKIP
 ### 10.Login Admin
  * Enter 'or'a'='a' and like %admin% --
+### 11
+ * find row of table by enter ' ORDER BY 6 -- and an error appears. Know Users table has 5 row.
+ * ' UNION SELECT ALL 1,2,3,4,5 -- admin email is on row 2
+ * TODO
